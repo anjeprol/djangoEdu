@@ -1,0 +1,11 @@
+[H[2J[H[2J[BASE  DIR ]------/home/amk-016/ssovirtenv/edu
+[Debug mode]------[True]
+[BASE  DIR ]------/home/amk-016/ssovirtenv/edu
+[Debug mode]------[True]
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 07, 2017 - 21:13:50
+Django version 1.10, using settings 'edu.settings'
+Starting development server at http://192.168.12.120:80/
+Quit the server with CONTROL-C.
